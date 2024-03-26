@@ -1,0 +1,4 @@
+﻿  class BBank.cpp
+C:\Users\User\source\repos\class BBank\class BBank.cpp(75,31): warning C4305: аргумент: усечение из "__int64" в "int"
+C:\Users\User\source\repos\class BBank\class BBank.cpp(75,31): warning C4309: аргумент: усечение константного значения
+  class BBank.vcxproj -> C:\Users\User\source\repos\class BBank\x64\Debug\class BBank.exe
